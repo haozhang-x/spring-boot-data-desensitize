@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+
+spring:
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
+
+
+
