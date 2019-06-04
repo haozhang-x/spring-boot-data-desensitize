@@ -1,4 +1,4 @@
-# spring-boot-desensitize
+# spring-boot-data-desensitize
 Data Desensitize
 
 
@@ -32,7 +32,7 @@ Data Desensitize
 ``` 
 
 # Usage
-Use annotation @Sensitive on your bean Field</br> 
+Use annotation `@Sensitive` on your bean field.</br> 
 SensitiveUtil.java to make your fields own logic. </br>
 SensitiveType.java definition type.
 
