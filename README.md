@@ -3,7 +3,7 @@ Data Desensitize
 
 
 # Desensitize Data Like This
- 
+```
 "code": 200,
 "msg": "OK",
 "data": [
@@ -29,9 +29,10 @@ Data Desensitize
 "birthday": "2019-06-04 11:12:19 下午"
 }
 ]
+``` 
 
 # Usage
-Use annotation @Sensitive
-SensitiveUtil.java to make your fields own logic.
+Use annotation @Sensitive on your bean Field</br> 
+SensitiveUtil.java to make your fields own logic. </br>
 SensitiveType.java definition type.
 
